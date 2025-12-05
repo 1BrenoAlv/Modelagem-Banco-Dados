@@ -1,4 +1,4 @@
 # Modelagem-Banco-Dados
 
-
-<img src="./faculdade-modelagem/mer.png">
+<h2>Modelagem MER de uma faculdade</h2>
+<img src="./faculdade-modelagem/mer_faculdade.png">
